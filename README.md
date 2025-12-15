@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Corentin FERRY</h1>
-<h3 align="center">A passionate backend developer from France</h3>
+<h3 align="center">A passionate developer from France</h3>
 
-- 🌱 I’m currently learning **FrameWorks, POO, Data, SQL, Git**
+- 🌱 I’m currently learning **in campus numérique in the alps**
 
 - 📫 How to reach me **c.ferry78@laposte.net**
 
