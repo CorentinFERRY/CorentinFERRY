@@ -1,15 +1,46 @@
-<h1 align="center">Hi 👋, I'm Corentin FERRY</h1>
-<h3 align="center">A passionate developer from France</h3>
+# Hi there 👋
 
-- 🌱 I’m currently learning **in campus numérique in the alps**
+My name's Corentin, I'm a coding enthusiast focusing on **backend development**. I recently started learning at **Le Campus Numérique in The Alps (Annecy)** — an 8-month FullStack program from October 2025 to June 2026, followed by a one-year apprenticeship in a company.
 
-- 📫 How to reach me **c.ferry78@laposte.net**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/corentinferry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="corentinferry" height="30" width="40" /></a>
-</p>
+## 💻 Tech Stack
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+I’m still learning, but here’s what I’m focusing on:  
 
+### Backend
+- **PHP & Laravel** – built a couple of projects at school, learning MVC architecture and backend fundamentals.  
+- **Java** – for backend development. Currently learning on a Dungeons & Dragons style project  
+- **Python** – next on my list.  
+
+### Database
+- **SQL (MySQL)** – building structured databases.  
+- **NoSQL (MongoDB)** – exploring flexible data storage.  
+
+### Frontend
+- **HTML/CSS/JS** – basics for connecting to backend APIs.  
+- **Vue.js** – planning to start soon for frontend projects.  
+
+### Tools
+- **Git & GitHub** – version control, project management and collaboration.  
+- **Figma** – UI/UX design, wireframing and prototyping.
+
+---
+
+## 🌱 Goals
+- Successfully transition into a **career in backend development**, turning a long-standing passion for tech into my profession.
+- Work on **meaningful projects** that solve real problems and create value for users.
+- Continuously improve my **backend development skills** (APIs, architecture, databases) and keep learning throughout my career.
+
+---
+
+## ⚡ Fun Fact
+I love seeing how a **well-structured backend** can power apps and websites — feels like being the “engineer behind the scenes.”  
+
+---
+
+## 📫 Contact Me
+Feel free to reach out if you want to **collaborate on backend projects**, discuss tech, or just share cool dev tips!
+
+Best,  
+**Corentin**
