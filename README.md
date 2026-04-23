@@ -9,21 +9,25 @@ My name's Corentin, I'm a coding enthusiast focusing on **backend development**.
 I’m still learning, but here’s what I’m focusing on:  
 
 ### Backend
-- **PHP & Laravel** – built a couple of projects at school, learning MVC architecture and backend fundamentals.  
-- **Java** – for backend development. Currently learning on a Dungeons & Dragons style project  
-- **Python** – next on my list.  
+- **PHP & Laravel** - built a couple of projects at school, learning MVC architecture and backend fundamentals.  
+- **Java** - for backend development. Currently learning on a Dungeons & Dragons style project  
+- **Python** - fro backend development. Test oriented, TDD and united tests.
 
 ### Database
-- **SQL (MySQL)** – building structured databases.  
-- **NoSQL (MongoDB)** – exploring flexible data storage.  
+- **SQL (MySQL)** - building structured databases.  
+- **NoSQL (MongoDB)** - exploring flexible data storage.  
 
 ### Frontend
-- **HTML/CSS/JS** – basics for connecting to backend APIs.  
-- **Vue.js** – planning to start soon for frontend projects.  
+- **HTML/CSS/JS** - basics for connecting to backend APIs.  
+- **Vue.js** - planning to start soon for frontend projects.  
+
+### Gestion de projet
+- **Agile** - learning about agile methodology in projects.
 
 ### Tools
-- **Git & GitHub** – version control, project management and collaboration.  
-- **Figma** – UI/UX design, wireframing and prototyping.
+- **Git & GitHub** - version control, project management and collaboration.  
+- **Figma** - UI/UX design, wireframing and prototyping.
+- **Architecture** - C4 model and designs patterns.
 
 ---
 
