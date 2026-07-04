@@ -1,17 +1,16 @@
 # Hi there 👋
 
-My name's Corentin, I'm a coding enthusiast focusing on **backend development**. I recently started learning at **Le Campus Numérique in The Alps (Annecy)** — an 8-month FullStack program from October 2025 to June 2026, followed by a one-year apprenticeship in a company.
+My name's Corentin, I'm a coding enthusiast focusing on **backend development**. After a formation in **Le Campus Numérique in The Alps (Annecy)** - an 8-month FullStack program from October 2025 to June 2026, followed by a one-year apprenticeship in a company.
 
 ---
 
 ## 💻 Tech Stack
 
-I’m still learning, but here’s what I’m focusing on:  
-
 ### Backend
-- **PHP & Laravel** - built a couple of projects at school, learning MVC architecture and backend fundamentals.  
-- **Java** - for backend development. Currently learning on a Dungeons & Dragons style project  
-- **Python** - fro backend development. Test oriented, TDD and united tests.
+- **PHP & Laravel** - built a couple of projects at school, MVC architecture and backend fundamentals.  
+- **Java** - for backend development. A Dungeons & Dragons style project
+- **Java SpringBoot** - for a game engine backend with users in microservice. 
+- **Python** - for backend development. Test oriented, TDD and united tests.
 
 ### Database
 - **SQL (MySQL)** - building structured databases.  
@@ -19,7 +18,7 @@ I’m still learning, but here’s what I’m focusing on:
 
 ### Frontend
 - **HTML/CSS/JS** - basics for connecting to backend APIs.  
-- **Vue.js** - planning to start soon for frontend projects.  
+- **Vue.js** - for frontend projects. Listing movies in a SPA  
 
 ### Gestion de projet
 - **Agile** - learning about agile methodology in projects.
