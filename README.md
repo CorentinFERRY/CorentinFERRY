@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name's Corentin, I'm a coding enthusiast focusing on **backend development**. After a formation in **Le Campus Numérique in The Alps (Annecy)** - an 8-month FullStack program from October 2025 to June 2026, followed by a one-year apprenticeship in a company.
+My name's Corentin, I'm a coding enthusiast focusing on **backend development**. After a formation in **Le Campus Numérique (Annecy)** - an 8-month FullStack program from October 2025 to June 2026, followed by a one-year apprenticeship in a company.
 
 ---
 
