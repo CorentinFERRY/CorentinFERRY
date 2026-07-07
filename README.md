@@ -9,7 +9,7 @@ My name's Corentin, I'm a coding enthusiast focusing on **backend development**.
 ### Backend
 - **PHP & Laravel** - built a couple of projects at school, MVC architecture and backend fundamentals.  
 - **Java** - for backend development. A Dungeons & Dragons style project
-- **Java SpringBoot** - for a game engine backend with users in microservice. 
+- **Java Spring Boo*t* - Developed the backend for a game engine using a microservices architecture with user management services.
 - **Python** - for backend development. Test oriented, TDD and united tests.
 
 ### Database
