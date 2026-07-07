@@ -24,7 +24,7 @@ My name's Corentin, I'm a coding enthusiast focusing on **backend development**.
 - **Agile** - learning about agile methodology in projects.
 
 ### Tools
-- **Git & GitHub** - version control, project management and collaboration.  
+- **Git, GitHub & GitLab** - version control, project management, collaboration and CI/CD.
 - **Figma** - UI/UX design, wireframing and prototyping.
 - **Architecture** - C4 model and designs patterns.
 
