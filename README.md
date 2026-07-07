@@ -7,9 +7,9 @@ My name's Corentin, I'm a coding enthusiast focusing on **backend development**.
 ## 💻 Tech Stack
 
 ### Backend
-- **PHP & Laravel** - built a couple of projects at school, MVC architecture and backend fundamentals.  
+- **PHP & Laravel** - built a couple of projects, MVC architecture and backend fundamentals.  
 - **Java** - for backend development. A Dungeons & Dragons style project
-- **Java Spring Boo*t* - Developed the backend for a game engine using a microservices architecture with user management services.
+- **Java Spring Boot** - for backend developpment. Developed the backend for a game engine using a microservices architecture with user management services.
 - **Python** - for backend development. Test oriented, TDD and united tests.
 
 ### Database
@@ -17,8 +17,8 @@ My name's Corentin, I'm a coding enthusiast focusing on **backend development**.
 - **NoSQL (MongoDB)** - exploring flexible data storage.  
 
 ### Frontend
-- **HTML/CSS/JS** - basics for connecting to backend APIs.  
-- **Vue.js** - for frontend projects. Listing movies in a SPA  
+- **HTML/CSS/JS** - basics languages for frontend developpment.  
+- **Vue.js** - for frontend development. Build a SPA for listing movies from an API   
 
 ### Gestion de projet
 - **Agile** - learning about agile methodology in projects.
