@@ -38,7 +38,7 @@ My name's Corentin, I'm a coding enthusiast focusing on **backend development**.
 ---
 
 ## ⚡ Fun Fact
-I love seeing how a **well-structured backend** can power apps and websites — feels like being the “engineer behind the scenes.”  
+I love seeing how a **well-structured backend** can power apps and websites - feels like being the “engineer behind the scenes.”  
 
 ---
 
